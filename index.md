@@ -36,5 +36,4 @@ I think if am able to alow my body to balance out I will be able to breathe and 
 
 ### Adapting to The Terrain
 
-Like everything in life I must adapt to my environment. It is irrational to act in a way that is contrary to one's environment. Nature is not fixed however. I do not act according to the platonic immovable ideal of nature. I adapt to the Hobbesian reality of a shifting terrain. 
-
+Like everything in life I must adapt to my environment. It is irrational to act in a way that is contrary to reality.
