@@ -22,6 +22,12 @@ seoSecondaryKeywords:
   - balance
   - terrain adaptation
 seoOptimized: true
+topicFamily: personal
+topicFamilyConfidence: 0.95
+topicFamilyNotes: >-
+  The post is a personal journal documenting reflections on running, breathing, injury prevention,
+  balance, and terrain adaptation, which aligns closely with the 'Personal' family focused on
+  health, habits, and lifestyle reflections in markdown.
 ---
 
 # Running Project Overview
@@ -58,3 +64,4 @@ This project serves as a personal log rather than a tool or library. It may be u
 ## Summary
 
 The "running" repository is a textual journal capturing personal running goals and challenges. It emphasizes awareness of breathing, injury avoidance, balance, and terrain adaptation. While not a software project, it represents an example of using GitHub for personal knowledge management and self-reflection.
+
