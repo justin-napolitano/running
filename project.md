@@ -7,8 +7,8 @@ githubUrl: https://github.com/justin-napolitano/running
 generatedAt: '2025-11-24T21:36:12.524Z'
 source: github-auto
 summary: >-
-  A collection of personal running goals and observations, focusing on technique
-  and physical awareness documented in Markdown.
+  A collection of personal running goals and observations, focusing on technique and physical
+  awareness documented in Markdown.
 tags:
   - markdown
   - personal journal
@@ -22,8 +22,8 @@ seoSecondaryKeywords:
   - terrain adaptation
   - static content documentation
 seoOptimized: true
-topicFamily: null
-topicFamilyConfidence: null
+topicFamily: personal
+topicFamilyConfidence: 0.9
 kind: project
 entryLayout: project
 showInProjects: true
@@ -69,3 +69,4 @@ cd running
 ---
 
 This repository currently serves as a personal journal and may be expanded or repurposed in the future.
+
