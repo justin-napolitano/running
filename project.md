@@ -1,19 +1,27 @@
 ---
 slug: github-running
 id: github-running
-title: Running
+title: Personal Running Journal and Reflections in Markdown
 repo: justin-napolitano/running
 githubUrl: https://github.com/justin-napolitano/running
 generatedAt: '2025-11-24T21:36:12.524Z'
 source: github-auto
 summary: >-
-  This repository contains personal reflections and goals related to running,
-  focusing on improving technique and physical awareness. It is a collection of
-  notes rather than a software project.
-tags: []
-seoPrimaryKeyword: ''
-seoSecondaryKeywords: []
-seoOptimized: false
+  A collection of personal running goals and observations, focusing on technique
+  and physical awareness documented in Markdown.
+tags:
+  - markdown
+  - personal journal
+  - running goals
+  - static site
+  - documentation
+seoPrimaryKeyword: personal running journal
+seoSecondaryKeywords:
+  - running technique notes
+  - breathing and injury prevention
+  - terrain adaptation
+  - static content documentation
+seoOptimized: true
 topicFamily: null
 topicFamilyConfidence: null
 kind: project
