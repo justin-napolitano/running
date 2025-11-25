@@ -1,13 +1,13 @@
 ---
 slug: github-running
-title: Personal Running Journal on Breathing, Injury, Balance, and Terrain
+title: Personal Running Documentation and Insights
 repo: justin-napolitano/running
 githubUrl: https://github.com/justin-napolitano/running
 generatedAt: '2025-11-23T09:33:21.465480Z'
 source: github-auto
 summary: >-
-  A GitHub Markdown project documenting reflections on running technique, injury prevention,
-  breathing, balance, and terrain adaptation.
+  Explore a personal log detailing running techniques, injury prevention, and
+  environmental adaptations.
 tags:
   - running
   - personal-journal
@@ -15,19 +15,28 @@ tags:
   - injury-prevention
   - balance
   - terrain-adaptation
-seoPrimaryKeyword: running journal
-seoSecondaryKeywords:
-  - breathing technique
+  - markdown
+  - personal documentation
+  - running techniques
   - injury prevention
-  - balance
+  - knowledge management
+seoPrimaryKeyword: personal running documentation
+seoSecondaryKeywords:
+  - running goals
+  - breathing techniques
+  - injury avoidance
+  - balance in running
   - terrain adaptation
 seoOptimized: true
 topicFamily: personal
 topicFamilyConfidence: 0.95
 topicFamilyNotes: >-
-  The post is a personal journal documenting reflections on running, breathing, injury prevention,
-  balance, and terrain adaptation, which aligns closely with the 'Personal' family focused on
-  health, habits, and lifestyle reflections in markdown.
+  The post is a personal journal documenting reflections on running, breathing,
+  injury prevention, balance, and terrain adaptation, which aligns closely with
+  the 'Personal' family focused on health, habits, and lifestyle reflections in
+  markdown.
+kind: project
+id: github-running
 ---
 
 # Running Project Overview
